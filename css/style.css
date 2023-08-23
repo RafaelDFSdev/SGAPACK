@@ -91,7 +91,7 @@ header button{
     gap: 3px;
 }
 main{
-    background-image: url(/img/img-manutencao.jpg);
+    background-image: url(../img/img-manutencao.jpg);
 }
 .introdução{
     height: 50vh;
