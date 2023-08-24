@@ -137,6 +137,41 @@ form button:hover{
     transition: 0.2s;
     cursor: pointer;
 }
+footer{
+    font-family: 'poppins', sans-serif;
+    height: 6rem;
+    width: 100%;
+    background-color:  rgb(207, 207, 207);
+    text-align: center;
+    padding-left: 60px;
+    display: flex;
+    flex-direction: column;
+}
+footer h1{
+    margin-right: 70px;
+    font-size: 20px;
+}
+.numerosemails{
+    display: flex;
+    width: 30%;
+    margin: auto;
+    justify-content: center;
+    gap: 2rem;
+    
+}
+footer hr{
+    height: 3rem;
+    width: 5px;
+    margin: 1px solid;
+    border-radius: 10px;
+    background-color:  rgb(255, 174, 0);
+}
+.mobile-footer{
+    font-family: 'poppins', sans-serif;
+    display: none;
+    height: 2rem;
+    background-color: rgb(207, 207, 207);
+}
 
 @media (max-width:999px){
     .numeros-emails{
@@ -147,5 +182,13 @@ form button:hover{
     }
     header nav h1{
         display: none;
+    }
+    footer{
+        display: none;
+    }
+    .mobile-footer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
