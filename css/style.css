@@ -76,20 +76,10 @@ header button{
 
 /* main-styles */
 .wpp-link{
-    background-color: green;
-    height: 60px;
-    padding: 5px;
-    border-radius:50px 50px 50px 50px;
-    position: fixed;
-    bottom: 4rem;
-    right: 2rem;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-decoration: none;
-    gap: 3px;
-    display: none;
+    overflow: hidden;
+}
+i{
+    overflow: hidden;
 }
 main{
     background-image: url(../img/img-manutencao.jpg);
