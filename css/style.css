@@ -277,6 +277,7 @@ footer hr{
     max-width: 85%;
    }
    .transition{
+    display: flex;
     flex-direction: column;
    }
    
