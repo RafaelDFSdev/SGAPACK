@@ -276,6 +276,9 @@ footer hr{
    .local iframe{
     max-width: 85%;
    }
+   .transition{
+    flex-direction: column;
+   }
    
    
 }
