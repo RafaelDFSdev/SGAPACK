@@ -227,13 +227,13 @@ footer hr{
     }
    .modelos{
     flex-direction: column;
-    height: 70vh;
+    height: 50vh;
     justify-content: flex-start;
 
    }
    .modelos img{
     width: 50%;
-    height: 30%;
+    height: 50%;
    }
    .texto{
     width: 90%;
