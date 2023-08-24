@@ -260,16 +260,4 @@ footer hr{
     display: flex;
     flex-direction: column;
    }
-   
-   
-}
-@media(max-width: 799px){
-    .modelos{
-        height: 80vh;
-        width: 70vw;
-        margin-top: 5rem;
-    }
-    .introdução{
-        height: 70vh;
-    }
 }
