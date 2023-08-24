@@ -145,4 +145,7 @@ form button:hover{
     .contatos{
         height: auto;
     }
+    header nav h1{
+        display: none;
+    }
 }

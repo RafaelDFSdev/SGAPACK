@@ -140,7 +140,7 @@ main{
 .modelos img{
     width:  30%;
     height: 70%;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .modelo{
     width: 200px;
@@ -222,6 +222,17 @@ footer hr{
     display: none;
     height: 2rem;
     background-color: rgb(207, 207, 207);
+}
+.transition{
+    display: flex;
+    height: 100%;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.transition img{
+
 }
 
 /* media */
