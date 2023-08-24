@@ -263,3 +263,13 @@ footer hr{
    
    
 }
+@media(max-width: 799px){
+    .modelos{
+        height: 80vh;
+        width: 70vw;
+        margin-top: 5rem;
+    }
+    .introdução{
+        height: 70vh;
+    }
+}
