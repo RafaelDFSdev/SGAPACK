@@ -103,6 +103,9 @@ main{
     color: white;
     
 }
+.about-hr{
+    margin: 1rem 2rem;
+}
 .hr-page{
     width: 40%;
     margin: 2rem auto;
